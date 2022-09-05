@@ -10,5 +10,5 @@
 - 👯 Looking to collaborate on Blockchain projects.
 - 🤔 Also looking for mentors.
 - 💬 Ask me about tech, blockchain, web development.
-- 📫 <a href="">LinkedIn</a> <a href="">Twitter</a> <a href="">Discord</a> 
+- 📫 <a href="https://www.linkedin.com/in/prajwal-k1">LinkedIn</a> 	&nbsp;<a href="https://twitter.com/prajwal_k1">Twitter</a> 	&nbsp;<a href="mailto:prajwal.kb.1999@gmail.com">Gmail</a> 
 </div>
