@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**prajwal-k1/prajwal-k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header">
+  <img src="https://media1.giphy.com/media/hReWMYjSydBfwf1puQ/giphy.gif?cid=790b76111bba6629e7fb9ed546bd6621c51d6ce94288bf1f&rid=giphy.gif&ct=g" align="right">
+  <br/>
+  <h2>Hi Web wizards 👋, I'm Prajwal</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on some cool projects.
+- 🌱 Learning Solidity, Web3 as of now.
+- 👯 Looking to collaborate on Blockchain projects.
+- 🤔 Also looking for mentors.
+- 💬 Ask me about tech, blockchain, web development.
+- 📫 <a href="">LinkedIn</a> <a href="">Twitter</a> <a href="">Discord</a> 
+</div>
