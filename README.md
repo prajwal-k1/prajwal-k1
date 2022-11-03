@@ -6,7 +6,7 @@
   <h2>Hi Web wizards 👋, I'm Prajwal</h2>
 
 - 🔭 Currently working on some cool projects.
-- 🌱 Learning Solidity and Web development for Web3 as.
+- 🌱 Learning Solidity and Web development for Web3 as of now.
 - 👯 Looking to collaborate on Blockchain projects.
 - 🤔 Also looking for mentors.
 - 💬 Ask me about tech, blockchain, web development.
