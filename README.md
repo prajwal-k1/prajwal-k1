@@ -6,8 +6,8 @@
   <h2>Hi Web wizards 👋, I'm Prajwal</h2>
 
 - 🔭 Currently working on some cool projects.
-- 🌱 Learning Solidity and Web development for Web3 as of now.
-- 👯 Looking to collaborate on Blockchain projects.
+- 🌱 Learning Solidity and Web development for Web3 and working on MERN project.
+- 👯 Looking to collaborate on MERN/Blockchain projects.
 - 🤔 Also looking for mentors.
 - 💬 Ask me about tech, blockchain, web development.
 - 📫 <a href="https://www.linkedin.com/in/prajwal-k1">LinkedIn</a> 	&nbsp;<a href="https://twitter.com/prajwal_k1">Twitter</a> 	&nbsp;<a href="mailto:prajwal.kb.1999@gmail.com">Gmail</a> 
